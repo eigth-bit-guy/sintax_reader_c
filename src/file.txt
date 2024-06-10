@@ -1,5 +1,2 @@
-! Fernanda
-# teste
-! Samuel
-# qualquer coisa
-! testando
+# print
+! don't print
