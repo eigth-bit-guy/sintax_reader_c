@@ -30,7 +30,6 @@ int main(int argc, char **argv)
   while((c = fgetc(file)) != EOF){
     switch(c){
     case '#':
-      printf("\n");
       while((c = fgetc(file)) != '\n'){
 	printf("%c", c);
       }
